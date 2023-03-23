@@ -1,4 +1,4 @@
-# Jazz Harmony Anaylsis App
+# Jazz Harmony Analysis App
 
 This app allows you visualize and analyses chord sequences from the iRealBook and the Weimar Jazz Database
 
